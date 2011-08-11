@@ -18,6 +18,8 @@ namespace AC {
          InitializeComponent();
       }
 
+		// different notes
+	
       private void areaCodeMaskedTextBox_TextChanged(object sender, EventArgs e)
       {
          string txt = areaCodeMaskedTextBox.Text;
